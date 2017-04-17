@@ -1,1 +1,6 @@
 /breakingjava/breakingjava/target/
+target/
+!Recursion.class
+.idea
+/test/JavaApplication1/nbproject/private/
+/test/JavaApplication1/build/
